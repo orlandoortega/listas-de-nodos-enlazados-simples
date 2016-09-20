@@ -1,3 +1,4 @@
+#https://repl.it/X3G/4106
 def elimin_primer(self):
   if(self.__primero==None):
     return
